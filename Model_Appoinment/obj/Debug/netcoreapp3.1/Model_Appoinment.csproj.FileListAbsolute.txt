@@ -11,3 +11,15 @@ C:\Users\PriyaG3\Desktop\New Project Folder\PMS_Appoinment\Model_Appoinment\obj\
 C:\Users\PriyaG3\Desktop\New Project Folder\PMS_Appoinment\Model_Appoinment\obj\Debug\netcoreapp3.1\Model_Appoinment.dll
 C:\Users\PriyaG3\Desktop\New Project Folder\PMS_Appoinment\Model_Appoinment\obj\Debug\netcoreapp3.1\Model_Appoinment.pdb
 C:\Users\PriyaG3\Desktop\New Project Folder\PMS_Appoinment\Model_Appoinment\obj\Debug\netcoreapp3.1\Model_Appoinment.genruntimeconfig.cache
+C:\Users\PranavP3\Documents\pms_appointment\PMS-Appoinment\Model_Appoinment\bin\Debug\netcoreapp3.1\Model_Appoinment.deps.json
+C:\Users\PranavP3\Documents\pms_appointment\PMS-Appoinment\Model_Appoinment\bin\Debug\netcoreapp3.1\Model_Appoinment.runtimeconfig.json
+C:\Users\PranavP3\Documents\pms_appointment\PMS-Appoinment\Model_Appoinment\bin\Debug\netcoreapp3.1\Model_Appoinment.runtimeconfig.dev.json
+C:\Users\PranavP3\Documents\pms_appointment\PMS-Appoinment\Model_Appoinment\bin\Debug\netcoreapp3.1\Model_Appoinment.dll
+C:\Users\PranavP3\Documents\pms_appointment\PMS-Appoinment\Model_Appoinment\bin\Debug\netcoreapp3.1\Model_Appoinment.pdb
+C:\Users\PranavP3\Documents\pms_appointment\PMS-Appoinment\Model_Appoinment\obj\Debug\netcoreapp3.1\Model_Appoinment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PranavP3\Documents\pms_appointment\PMS-Appoinment\Model_Appoinment\obj\Debug\netcoreapp3.1\Model_Appoinment.AssemblyInfoInputs.cache
+C:\Users\PranavP3\Documents\pms_appointment\PMS-Appoinment\Model_Appoinment\obj\Debug\netcoreapp3.1\Model_Appoinment.AssemblyInfo.cs
+C:\Users\PranavP3\Documents\pms_appointment\PMS-Appoinment\Model_Appoinment\obj\Debug\netcoreapp3.1\Model_Appoinment.csproj.CoreCompileInputs.cache
+C:\Users\PranavP3\Documents\pms_appointment\PMS-Appoinment\Model_Appoinment\obj\Debug\netcoreapp3.1\Model_Appoinment.dll
+C:\Users\PranavP3\Documents\pms_appointment\PMS-Appoinment\Model_Appoinment\obj\Debug\netcoreapp3.1\Model_Appoinment.pdb
+C:\Users\PranavP3\Documents\pms_appointment\PMS-Appoinment\Model_Appoinment\obj\Debug\netcoreapp3.1\Model_Appoinment.genruntimeconfig.cache

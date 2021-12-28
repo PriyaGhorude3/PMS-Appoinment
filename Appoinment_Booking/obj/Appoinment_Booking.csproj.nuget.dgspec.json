@@ -1,27 +1,211 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PriyaG3\\Desktop\\New Project Folder\\PMS_Appoinment\\Appoinment_Booking\\Appoinment_Booking.csproj": {}
+    "C:\\Users\\PranavP3\\Documents\\pms_appointment\\PMS-Appoinment\\Appoinment_Booking\\Appoinment_Booking.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PriyaG3\\Desktop\\New Project Folder\\PMS_Appoinment\\Appoinment_Booking\\Appoinment_Booking.csproj": {
+    "C:\\Users\\PranavP3\\Documents\\pms_appointment\\PMS-Appoinment\\Appoinment_Booking\\Appoinment_Booking.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PriyaG3\\Desktop\\New Project Folder\\PMS_Appoinment\\Appoinment_Booking\\Appoinment_Booking.csproj",
+        "projectUniqueName": "C:\\Users\\PranavP3\\Documents\\pms_appointment\\PMS-Appoinment\\Appoinment_Booking\\Appoinment_Booking.csproj",
         "projectName": "Appoinment_Booking",
-        "projectPath": "C:\\Users\\PriyaG3\\Desktop\\New Project Folder\\PMS_Appoinment\\Appoinment_Booking\\Appoinment_Booking.csproj",
-        "packagesPath": "C:\\Users\\PriyaG3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PriyaG3\\Desktop\\New Project Folder\\PMS_Appoinment\\Appoinment_Booking\\obj\\",
+        "projectPath": "C:\\Users\\PranavP3\\Documents\\pms_appointment\\PMS-Appoinment\\Appoinment_Booking\\Appoinment_Booking.csproj",
+        "packagesPath": "C:\\Users\\PranavP3\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PranavP3\\Documents\\pms_appointment\\PMS-Appoinment\\Appoinment_Booking\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\PriyaG3\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\PranavP3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\PranavP3\\Documents\\pms_appointment\\PMS-Appoinment\\Business_Appoinment\\Business_Appoinment.csproj": {
+                "projectPath": "C:\\Users\\PranavP3\\Documents\\pms_appointment\\PMS-Appoinment\\Business_Appoinment\\Business_Appoinment.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.21, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.21, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.21, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.21, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\PranavP3\\Documents\\pms_appointment\\PMS-Appoinment\\Business_Appoinment\\Business_Appoinment.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PranavP3\\Documents\\pms_appointment\\PMS-Appoinment\\Business_Appoinment\\Business_Appoinment.csproj",
+        "projectName": "Business_Appoinment",
+        "projectPath": "C:\\Users\\PranavP3\\Documents\\pms_appointment\\PMS-Appoinment\\Business_Appoinment\\Business_Appoinment.csproj",
+        "packagesPath": "C:\\Users\\PranavP3\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PranavP3\\Documents\\pms_appointment\\PMS-Appoinment\\Business_Appoinment\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PranavP3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\PranavP3\\Documents\\pms_appointment\\PMS-Appoinment\\Model_Appoinment\\Model_Appoinment.csproj": {
+                "projectPath": "C:\\Users\\PranavP3\\Documents\\pms_appointment\\PMS-Appoinment\\Model_Appoinment\\Model_Appoinment.csproj"
+              },
+              "C:\\Users\\PranavP3\\Documents\\pms_appointment\\PMS-Appoinment\\Repository_Appoinment\\Repository_Appoinment.csproj": {
+                "projectPath": "C:\\Users\\PranavP3\\Documents\\pms_appointment\\PMS-Appoinment\\Repository_Appoinment\\Repository_Appoinment.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.21, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.21, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.21, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.21, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\PranavP3\\Documents\\pms_appointment\\PMS-Appoinment\\Model_Appoinment\\Model_Appoinment.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PranavP3\\Documents\\pms_appointment\\PMS-Appoinment\\Model_Appoinment\\Model_Appoinment.csproj",
+        "projectName": "Model_Appoinment",
+        "projectPath": "C:\\Users\\PranavP3\\Documents\\pms_appointment\\PMS-Appoinment\\Model_Appoinment\\Model_Appoinment.csproj",
+        "packagesPath": "C:\\Users\\PranavP3\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PranavP3\\Documents\\pms_appointment\\PMS-Appoinment\\Model_Appoinment\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PranavP3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -82,9 +266,94 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\PranavP3\\Documents\\pms_appointment\\PMS-Appoinment\\Repository_Appoinment\\Repository_Appoinment.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PranavP3\\Documents\\pms_appointment\\PMS-Appoinment\\Repository_Appoinment\\Repository_Appoinment.csproj",
+        "projectName": "Repository_Appoinment",
+        "projectPath": "C:\\Users\\PranavP3\\Documents\\pms_appointment\\PMS-Appoinment\\Repository_Appoinment\\Repository_Appoinment.csproj",
+        "packagesPath": "C:\\Users\\PranavP3\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PranavP3\\Documents\\pms_appointment\\PMS-Appoinment\\Repository_Appoinment\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PranavP3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
             },
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.21, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.21, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.21, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.21, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

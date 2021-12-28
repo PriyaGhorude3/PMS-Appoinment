@@ -26,7 +26,7 @@ namespace Repository_Appoinment.UnitOfWork
 
         #region Public Repository Creation properties...
 
-        public GenericRepository<PatientAppoinment> PatientRepository
+        public GenericRepository<PatientAppoinment> PatientAppointmentRepository
         {
             get
             {

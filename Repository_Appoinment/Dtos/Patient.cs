@@ -10,24 +10,29 @@ namespace Repository_Appoinment.Dtos
 {
     public partial class Patient
     {
-        public int PId { get; set; }
+        public Patient()
+        {
+            Allergies = new HashSet<Allergies>();
+            EmergencyContactInfo = new HashSet<EmergencyContactInfo>();
+            PatientAppoinment = new HashSet<PatientAppoinment>();
+            VitalSigns = new HashSet<VitalSigns>();
+        }
 
-        [Required]
+        public int Id { get; set; }
         public string Title { get; set; }
-
-        [Required,MinLength(2,ErrorMessage ="Please don't use abbreviations")]
-        public string FirstName { get; set; }
-        [Required,MinLength(2,ErrorMessage = "Please don't use abbreviations")]
-        public string LastName { get; set; }
-
-        [Required,EmailAddress]
-        public string EmailId { get; set; }
-       
-        public DateTime? Dob { get; set; }
-        public string Role { get; set; }
-        public int? Count { get; set; }
-        [Required,MinLength(8,ErrorMessage ="Password is weak. Please re-enter the password with a minimum of one Uppercase letter, one lowercase letter, one number and minimum length of 8 characters")]
-        public string Password { get; set; }
-        public DateTime CreatedAt { get; set; }
+        public string Firstname { get; set; }
+        public string Lastname { get; set; }
+        public DateTime? Dateofbirth { get; set; }
+        public int? Age { get; set; }
+        public string Gender { get; set; }
+        public string Race { get; set; }
+        public string Languages { get; set; }
+        public string HomeAddress { get; set; }
+        public string Contactno { get; set; }
+        public int? UserId { get; set; }
+        public virtual ICollection<Allergies> Allergies { get; set; }
+        public virtual ICollection<EmergencyContactInfo> EmergencyContactInfo { get; set; }
+        public virtual ICollection<PatientAppoinment> PatientAppoinment { get; set; }
+        public virtual ICollection<VitalSigns> VitalSigns { get; set; }
     }
 }

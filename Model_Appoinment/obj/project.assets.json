@@ -5764,28 +5764,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\PriyaG3\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\PranavP3\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PriyaG3\\Desktop\\New Project Folder\\PMS_Appoinment\\Model_Appoinment\\Model_Appoinment.csproj",
+      "projectUniqueName": "C:\\Users\\PranavP3\\Documents\\pms_appointment\\PMS-Appoinment\\Model_Appoinment\\Model_Appoinment.csproj",
       "projectName": "Model_Appoinment",
-      "projectPath": "C:\\Users\\PriyaG3\\Desktop\\New Project Folder\\PMS_Appoinment\\Model_Appoinment\\Model_Appoinment.csproj",
-      "packagesPath": "C:\\Users\\PriyaG3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PriyaG3\\Desktop\\New Project Folder\\PMS_Appoinment\\Model_Appoinment\\obj\\",
+      "projectPath": "C:\\Users\\PranavP3\\Documents\\pms_appointment\\PMS-Appoinment\\Model_Appoinment\\Model_Appoinment.csproj",
+      "packagesPath": "C:\\Users\\PranavP3\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PranavP3\\Documents\\pms_appointment\\PMS-Appoinment\\Model_Appoinment\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\PriyaG3\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\PranavP3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"

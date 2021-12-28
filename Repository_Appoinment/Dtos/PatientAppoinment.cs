@@ -5,7 +5,7 @@ using System.Collections.Generic;
 // If you have enabled NRTs for your project, then un-comment the following line:
 // #nullable disable
 
-namespace Repository_Appoinment
+namespace Repository_Appoinment.Dtos
 {
     public partial class PatientAppoinment
     {
@@ -19,7 +19,9 @@ namespace Repository_Appoinment
         public string Physicianname { get; set; }
         public string AppoinmentType { get; set; }
         public string AppoinmentDate { get; set; }
-        public int? AppoinmentTime { get; set; }
+        public double? AppoinmentTime { get; set; }
         public string Contactno { get; set; }
+
+        public virtual Patient Patient { get; set; }
     }
 }

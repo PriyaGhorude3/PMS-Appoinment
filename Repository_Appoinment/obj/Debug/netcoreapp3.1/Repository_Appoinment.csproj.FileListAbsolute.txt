@@ -20,3 +20,16 @@ C:\Users\PriyaG3\Desktop\New Project Folder\PMS_Appoinment\Repository_Appoinment
 C:\Users\PriyaG3\Desktop\New Project Folder\PMS_Appoinment\Repository_Appoinment\bin\Debug\netcoreapp3.1\Appoinment_Booking.dll
 C:\Users\PriyaG3\Desktop\New Project Folder\PMS_Appoinment\Repository_Appoinment\bin\Debug\netcoreapp3.1\Appoinment_Booking.pdb
 C:\Users\PriyaG3\Desktop\New Project Folder\PMS_Appoinment\Repository_Appoinment\obj\Debug\netcoreapp3.1\Repository_Appoinment.csproj.CopyComplete
+C:\Users\PranavP3\Documents\pms_appointment\PMS-Appoinment\Repository_Appoinment\bin\Debug\netcoreapp3.1\Repository_Appoinment.deps.json
+C:\Users\PranavP3\Documents\pms_appointment\PMS-Appoinment\Repository_Appoinment\bin\Debug\netcoreapp3.1\Repository_Appoinment.runtimeconfig.json
+C:\Users\PranavP3\Documents\pms_appointment\PMS-Appoinment\Repository_Appoinment\bin\Debug\netcoreapp3.1\Repository_Appoinment.runtimeconfig.dev.json
+C:\Users\PranavP3\Documents\pms_appointment\PMS-Appoinment\Repository_Appoinment\bin\Debug\netcoreapp3.1\Repository_Appoinment.dll
+C:\Users\PranavP3\Documents\pms_appointment\PMS-Appoinment\Repository_Appoinment\bin\Debug\netcoreapp3.1\Repository_Appoinment.pdb
+C:\Users\PranavP3\Documents\pms_appointment\PMS-Appoinment\Repository_Appoinment\obj\Debug\netcoreapp3.1\Repository_Appoinment.csproj.AssemblyReference.cache
+C:\Users\PranavP3\Documents\pms_appointment\PMS-Appoinment\Repository_Appoinment\obj\Debug\netcoreapp3.1\Repository_Appoinment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PranavP3\Documents\pms_appointment\PMS-Appoinment\Repository_Appoinment\obj\Debug\netcoreapp3.1\Repository_Appoinment.AssemblyInfoInputs.cache
+C:\Users\PranavP3\Documents\pms_appointment\PMS-Appoinment\Repository_Appoinment\obj\Debug\netcoreapp3.1\Repository_Appoinment.AssemblyInfo.cs
+C:\Users\PranavP3\Documents\pms_appointment\PMS-Appoinment\Repository_Appoinment\obj\Debug\netcoreapp3.1\Repository_Appoinment.csproj.CoreCompileInputs.cache
+C:\Users\PranavP3\Documents\pms_appointment\PMS-Appoinment\Repository_Appoinment\obj\Debug\netcoreapp3.1\Repository_Appoinment.dll
+C:\Users\PranavP3\Documents\pms_appointment\PMS-Appoinment\Repository_Appoinment\obj\Debug\netcoreapp3.1\Repository_Appoinment.pdb
+C:\Users\PranavP3\Documents\pms_appointment\PMS-Appoinment\Repository_Appoinment\obj\Debug\netcoreapp3.1\Repository_Appoinment.genruntimeconfig.cache

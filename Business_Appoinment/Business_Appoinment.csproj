@@ -18,4 +18,9 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Model_Appoinment\Model_Appoinment.csproj" />
+    <ProjectReference Include="..\Repository_Appoinment\Repository_Appoinment.csproj" />
+  </ItemGroup>
+
 </Project>
