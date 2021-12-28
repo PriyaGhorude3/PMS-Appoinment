@@ -1,0 +1,13 @@
+C:\Users\PriyaG3\Desktop\New Project Folder\PMS_Appoinment\Business_Appoinment\bin\Debug\netcoreapp3.1\Business_Appoinment.deps.json
+C:\Users\PriyaG3\Desktop\New Project Folder\PMS_Appoinment\Business_Appoinment\bin\Debug\netcoreapp3.1\Business_Appoinment.runtimeconfig.json
+C:\Users\PriyaG3\Desktop\New Project Folder\PMS_Appoinment\Business_Appoinment\bin\Debug\netcoreapp3.1\Business_Appoinment.runtimeconfig.dev.json
+C:\Users\PriyaG3\Desktop\New Project Folder\PMS_Appoinment\Business_Appoinment\bin\Debug\netcoreapp3.1\Business_Appoinment.dll
+C:\Users\PriyaG3\Desktop\New Project Folder\PMS_Appoinment\Business_Appoinment\bin\Debug\netcoreapp3.1\Business_Appoinment.pdb
+C:\Users\PriyaG3\Desktop\New Project Folder\PMS_Appoinment\Business_Appoinment\obj\Debug\netcoreapp3.1\Business_Appoinment.csproj.AssemblyReference.cache
+C:\Users\PriyaG3\Desktop\New Project Folder\PMS_Appoinment\Business_Appoinment\obj\Debug\netcoreapp3.1\Business_Appoinment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PriyaG3\Desktop\New Project Folder\PMS_Appoinment\Business_Appoinment\obj\Debug\netcoreapp3.1\Business_Appoinment.AssemblyInfoInputs.cache
+C:\Users\PriyaG3\Desktop\New Project Folder\PMS_Appoinment\Business_Appoinment\obj\Debug\netcoreapp3.1\Business_Appoinment.AssemblyInfo.cs
+C:\Users\PriyaG3\Desktop\New Project Folder\PMS_Appoinment\Business_Appoinment\obj\Debug\netcoreapp3.1\Business_Appoinment.csproj.CoreCompileInputs.cache
+C:\Users\PriyaG3\Desktop\New Project Folder\PMS_Appoinment\Business_Appoinment\obj\Debug\netcoreapp3.1\Business_Appoinment.dll
+C:\Users\PriyaG3\Desktop\New Project Folder\PMS_Appoinment\Business_Appoinment\obj\Debug\netcoreapp3.1\Business_Appoinment.pdb
+C:\Users\PriyaG3\Desktop\New Project Folder\PMS_Appoinment\Business_Appoinment\obj\Debug\netcoreapp3.1\Business_Appoinment.genruntimeconfig.cache
